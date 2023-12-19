@@ -1,1 +1,1 @@
-# gxdivo
+# GX_Divo
